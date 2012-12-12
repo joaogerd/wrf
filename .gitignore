@@ -1,2 +1,5 @@
 *.mod
 *.F90
+*.f90
+*.a
+configure.wrf
